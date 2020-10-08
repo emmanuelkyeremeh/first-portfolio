@@ -1,0 +1,22 @@
+body{
+    font-family: 'Montserrat', sans-serif !important;
+}
+.navbar a {
+    color: #cebd48;
+}
+.navbar a:hover {
+   color: #af9f2f;
+}
+.navbar a:active {
+    color: #ddd17f;
+}
+.btn:hover {
+   background-color:#bdb76b !important;
+}
+.btn:active {
+  background-color:#bdb76b !important;
+}
+.btn a{
+  text-decoration: none !important;
+  color: rgb(0, 0, 0) !important;
+}
