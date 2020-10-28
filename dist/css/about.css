@@ -2,6 +2,9 @@ body{
     font-family: 'Montserrat', sans-serif !important;
     overflow-x: hidden !important;
 }
+.container-fluid,.container {
+    overflow-x: hidden !important;
+}
 .navbar a {
     color: #cebd48;
 }
